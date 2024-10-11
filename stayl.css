@@ -1,0 +1,47 @@
+span{
+    color: rgb(255, 174, 0);
+}
+body{
+    color: white;
+    background-color: black;
+} #exp{
+    color: blue;
+} #pro{
+    color: rgb(255, 132, 0);
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    text-align: center;
+}
+h3{
+    text-align: center;
+
+}
+h5{
+    text-align: center;
+}
+img{
+    display: inline-block;
+}
+#exp{
+    color: rgb(75, 150, 241);
+}
+h4{
+    display: inline-block;
+}
+#html{
+ display: block;;
+}
+#css{
+    display: inline;
+}
+#gmail{
+    text-align: start;
+} #ss{
+    display: inline-block;
+}
